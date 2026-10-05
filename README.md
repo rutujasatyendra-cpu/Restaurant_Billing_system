@@ -27,22 +27,5 @@ The system also uses file handling to store transaction details and generate dai
 * Matplotlib – Revenue/data visualization
 
 
-## Main Functionalities
-## Billing
-Users can select food items, enter quantities, and generate the customer's bill automatically.
-
-## Invoice Generation
-The system calculates item prices, quantities, and the final amount to generate an invoice.
-
-## Transaction Storage
-Transaction details are stored using file handling/database functionality for future reference.
-
-## Daily Revenue Reports
-The application keeps track of transactions and generates daily revenue information to help monitor restaurant performance.
-
-## Objective
-The main objective of this project is to automate restaurant billing, reduce manual calculation errors, maintain transaction records, and provide daily revenue information.
-Your Name
-
 GitHub: Add your GitHub profile link here
 
