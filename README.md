@@ -25,7 +25,3 @@ The system also uses file handling to store transaction details and generate dai
 * File Handling – Transaction and report storage
 * SQLite – Database management
 * Matplotlib – Revenue/data visualization
-
-
-GitHub: Add your GitHub profile link here
-
